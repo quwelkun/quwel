@@ -6,3 +6,5 @@
 - MVVM pattern
 - Repository Pattern
 - RecyclerView
+- Retrofit
+- Courutines
